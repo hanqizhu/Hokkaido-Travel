@@ -84,6 +84,11 @@ nav ul li a:hover{
 	color:#f38094;
 }
 
+nav li a.current{
+   color: #ffffff;
+   background:#f38094;
+}
+
 nav ul li p{
 	font-family:Lato, Helvetica, Arial, sans-serif;
 	width:90%;
