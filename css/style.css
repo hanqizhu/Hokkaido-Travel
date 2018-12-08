@@ -1,12 +1,10 @@
 @charset "UTF-8";
-
-
+/* Overall */
 *{
 	margin:0;
 	padding:0;
 	border:0;
 }
-
 
 body{
 	background-image:url(../images/alterbackground.jpeg);
@@ -14,6 +12,23 @@ body{
 	color:#2d2d2d;
 }
 
+.wrapper{
+	margin:auto;
+	width:80%;
+	height:auto;
+}
+
+.clearfix {
+	float: none;
+	clear: both;
+}
+
+footer{
+	width:100%;
+	padding:10px 0;
+	background-color:#2d2d2d;
+}
+/* slides */
 #slideshow{
 	width:100%;
 	margin-top:2%;
@@ -32,12 +47,8 @@ body{
     box-shadow: 0 1px 1px #c1c1c1;
 	border-radius:15px;
 }
-.wrapper{
-	margin:auto;
-	width:80%;
-	height:auto;
-}
 
+/* tops and navigation */
 #top{
 	height:40px;
 }
@@ -124,6 +135,7 @@ hr{
 	margin:3% 0;
 }
 
+/* Header */
 header{
 	width:100%;
 	margin:5% 0 5% 0;
@@ -149,14 +161,6 @@ header h2{
 	font-size:100%;
 	font-weight:normal;
 }
-
-
-
-.clearfix {
-	float: none;
-	clear: both;
-}
-
 
 .left{
 	margin-top:4%;
@@ -210,6 +214,17 @@ header h2{
 .right p a{
 	color:#f38094;
 	text-decoration:none;
+}
+
+/* Bottom and Contact*/
+#bottom h3{
+	margin:4% 0 3% 0;
+	font-family:Cookie, Arial, Helvetica, sans-serif;
+	font-size:110%;
+	font-weight:normal;
+	text-align:center;
+	color:#f38094;
+	text-shadow: 0 1px 1px #c1c1c1;
 }
 
 .social{
@@ -278,6 +293,15 @@ input:focus, input.focused, textarea:focus, textarea.focused {  color: #3e3e3e; 
 	opacity:1;
 }
 
+.left h4{
+	font-family:Cookie, Arial, Helvetica, sans-serif;
+	font-size:180%;
+	font-weight:normal;
+	color:#f38094;
+	margin-bottom:10px;
+}
+
+/* items */
 .item{
 	border-radius:15px;
 	width:220px;
@@ -348,50 +372,16 @@ input:focus, input.focused, textarea:focus, textarea.focused {  color: #3e3e3e; 
 }
 
 
-#bottom h3{
-	margin:4% 0 3% 0;
-	font-family:Cookie, Arial, Helvetica, sans-serif;
-	font-size:110%;
-	font-weight:normal;
-	text-align:center;
-	color:#f38094;
-	text-shadow: 0 1px 1px #c1c1c1;
-}
-
-
-footer{
-	width:100%;
-	padding:10px 0;
-	background-color:#2d2d2d;
-}
-
-.rotateitem{
-		margin-top: 50px;
-		margin-left: 50px;
-		transform: rotate(90deg);
-}
-
-.left h4{
-	font-family:Cookie, Arial, Helvetica, sans-serif;
-	font-size:180%;
-	font-weight:normal;
-	color:#f38094;
-	margin-bottom:10px;
-}
-
-
-
-
 ::selection      { background:#f38094; color:#FFF;}
 ::-moz-selection  { background:#f38094; color:#FFF;}
 
-
+/*
 @media only screen and (max-width: 1279px) {
 	.wrapper{
 		width:90%;
 	}
 
-}
+} */
 
 @media only screen and (max-width: 1105px) {
 
