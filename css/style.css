@@ -125,7 +125,7 @@ nav ul li a:hover{
 }
 
 nav li a.current{
-   color: #ffffff;
+   color: #000;
    background:#f38094;
 	 font-weight: bold;
 }
