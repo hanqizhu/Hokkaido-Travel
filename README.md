@@ -31,20 +31,30 @@ One of them is initially grid of 3, the other is initially grid 4. And they are 
 
 I design them based on my number of photos, I also added a div named "Photo Gallery" to indicate it.
 
+Especially in the page of [Otara](https://hanqizhu.github.io/ResponsiveTest/otaru.html), the 2 grid designs are combined, so they looked better.
+
 ## A description of where to find at least two uses of javaScript and/or jQuery.
 
 1. I used jQuery and javascript to make the slider in the [home page](https://hanqizhu.github.io/ResponsiveTest/index.html).
-
   I learned it from [this website](https://www.jssor.com/), but generate the code totally on my own, since it is not very difficult.
-
   This makes my page look better.
 
 2. I used jQuery to generate a form that user can send me messages. They are at the bottom of each page in the footer.
-
   I used the action given by Colleen from [Formspree](https://formspree.io/)
-
   This helps because my pages become more interactive with users.
 
 3. I also made the lightbox photo gallery, which is similar to the last assignment. It is applied in each page except the homepage, because the images of this page are linked to the sub pages.
-
   This both makes my pages look good and interactive.
+
+## Other basic requirements.
+All are satisfied.
+
+## Extras
+
+1. Accessibility
+
+2. I used carousel to make a slider in the [home page](https://hanqizhu.github.io/ResponsiveTest/index.html)
+
+3. I used lightboxes in three pages: [Sapporo](https://hanqizhu.github.io/ResponsiveTest/sapporo.html), [Otara](https://hanqizhu.github.io/ResponsiveTest/otaru.html), and [Hakodate](https://hanqizhu.github.io/ResponsiveTest/hakodate.html).
+
+4. As I showed my demo to Colleen, she agrees that I have a good command of designing the grid.
