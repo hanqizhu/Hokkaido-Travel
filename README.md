@@ -3,25 +3,25 @@
 
 ## A description of the responsive design.
 
-The responsive design is based on the width of the viewport. I have
+The responsive design is based on the width of the viewport.
 
-I have 2 kinds of grid design, and they are all responsive. (In page [Sapporo](https://hanqizhu.github.io/ResponsiveTest/sapporo.html), [Otara](https://hanqizhu.github.io/ResponsiveTest/otaru.html), and [Hakodate](https://hanqizhu.github.io/ResponsiveTest/hakodate.html)):
+1. I have 2 kinds of grid design, and they are all responsive. (In page [Sapporo](https://hanqizhu.github.io/ResponsiveTest/sapporo.html), [Otara](https://hanqizhu.github.io/ResponsiveTest/otaru.html), and [Hakodate](https://hanqizhu.github.io/ResponsiveTest/hakodate.html)):
 
-    First the image divs will become smaller and smaller, then they will change from 3 or 4 items per line to 2 items per line.
+  * First the image divs will become smaller and smaller, then they will change from 3 or 4 items per line to 2 items per line.
 
-Also, the images linked with pages in the home page are also responsive.  
+2. Also, the images linked with pages in the home page are also responsive.  
 
-    Similarly, they will become smaller and smaller at first, then they changes from 4 items per line to 2 items per line.
+   * Similarly, they will become smaller and smaller at first, then they changes from 4 items per line to 2 items per line.
 
-The navigation bar will also change to 2 lines when the viewport width becomes small.
+3. The navigation bar will also change to 2 lines when the viewport width becomes small.
 
-And the font sizes of the text in my pages will be smaller.
+4. And the font sizes of the text in my pages will be smaller.
 
-In addition, the background image will change when the orientation is landscape.
+5. In addition, the background image will change when the orientation is landscape.
 
-How my code improves the page:
+__How my code improves the page:__
 
-    My code ensures that user can see clearly of anything, and keep the pages clean and neat.
+  My code ensures that user can see clearly of anything no matter what the viewport is like, and it keeps the pages clean and neat.
 
 ## A description of where to find uses of grid.
 
@@ -57,6 +57,7 @@ All are satisfied.
 ## Extras
 
 1. Accessibility
+  *
 
 2. I used carousel to make a slider in the [home page](https://hanqizhu.github.io/ResponsiveTest/index.html)
 
