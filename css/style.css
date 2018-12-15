@@ -127,12 +127,12 @@ nav ul li a{
 }
 
 nav ul li a:hover{
-	color:#f84747;
+	color:#f38094;
 }
 
 nav li a.current{
    color: #ffffff;
-   background:#f84747;
+   background:#f38094;
 	 font-weight: bold;
 }
 
@@ -144,7 +144,7 @@ nav ul li p{
 	font-weight:400;
 	line-height:250%;
 	display:block;
-	color:#f84747;
+	color:#f38094;
 }
 
 hr{
@@ -170,7 +170,7 @@ header h1{
 }
 
 header h1 span{
-	color:#f84747;
+	color:#f38094;
 	text-shadow: 0 1px 1px #dadada;
 }
 
@@ -203,7 +203,7 @@ header h2{
 }
 
 .left p a{
-	color:#f84747;
+	color:#f38094;
 	text-decoration:none;
 }
 
@@ -219,7 +219,7 @@ header h2{
 	font-size:180%;
 	font-weight:normal;
 	text-align:center;
-	color:#f84747;
+	color:#f38094;
 	margin-bottom:5%;
 	text-shadow: 0 1px 1px #dadada;
 }
@@ -231,7 +231,7 @@ header h2{
 }
 
 .right p a{
-	color:#f84747;
+	color:#f38094;
 	text-decoration:none;
 }
 
@@ -281,7 +281,7 @@ header h2{
 	text-align: center;
 }
 #accordion h3:hover{
-	background-color: #f84747;
+	background-color: #f38094;
 	color: white;
 	cursor: pointer;
 }
@@ -301,12 +301,12 @@ header h2{
 	font-size:120%;
 	font-weight:normal;
 	text-align:center;
-	color:#f84747;
+	color:#f38094;
 	text-shadow: 0 1px 1px #c1c1c1;
 }
 
 .social{
-	color:#f84747;
+	color:#f38094;
 }
 
 #formwrap{
@@ -356,7 +356,7 @@ input:focus, input.focused, textarea:focus, textarea.focused {  color: #3e3e3e; 
 }
 
 .formstyletwo:hover {
-	color:#f84747;
+	color:#f38094;
 	cursor:pointer;
 
 }
@@ -375,7 +375,7 @@ input:focus, input.focused, textarea:focus, textarea.focused {  color: #3e3e3e; 
 	font-family:Cookie, Arial, Helvetica, sans-serif;
 	font-size:180%;
 	font-weight:normal;
-	color:#f84747;
+	color:#f38094;
 	margin-bottom:10px;
 }
 
@@ -399,9 +399,9 @@ input:focus, input.focused, textarea:focus, textarea.focused {  color: #3e3e3e; 
 }
 
 .item:hover{
-	-webkit-box-shadow: 0 0 8px #f84747, 0 0 8px #f84747;
-    -moz-box-shadow: 0 0 8px #f84747,  0 0 8px #f84747;
-    box-shadow: 0 0 8px #f84747,  0 0 8px #f84747;
+	-webkit-box-shadow: 0 0 8px #f38094, 0 0 8px #f38094;
+    -moz-box-shadow: 0 0 8px #f38094,  0 0 8px #f38094;
+    box-shadow: 0 0 8px #f38094,  0 0 8px #f38094;
 }
 
 
@@ -450,8 +450,8 @@ input:focus, input.focused, textarea:focus, textarea.focused {  color: #3e3e3e; 
 }
 
 
-::selection      { background:#f84747; color:#FFF;}
-::-moz-selection  { background:#f84747; color:#FFF;}
+::selection      { background:#f38094; color:#FFF;}
+::-moz-selection  { background:#f38094; color:#FFF;}
 
 
 /* grid */
@@ -469,7 +469,7 @@ h3.in_grid{
 	font-size: 26px;
 	font-weight: bold;
 	font-family: Lato, Arial, Helvetica, sans-serif;
-	color:#f84747;
+	color:#f38094;
 	text-shadow: 0 1px 1px #dadada;
 	text-align:center;
 	font-weight:normal;
@@ -490,7 +490,7 @@ h3.in_grid{
 	cursor:pointer;
 	background:#ffffff;
 	border-radius:6px;
-	border:2px solid #f84747;
+	border:2px solid #f38094;
 }
 .grid-item img {
 	width:180px;
@@ -510,7 +510,7 @@ h3.in_grid{
 	height:162px;
 	text-align:center;
 	border-radius:6px;
-	border:2px solid #f84747;
+	border:2px solid #f38094;
 }
 .grid-para p {
 	margin: 20px;
