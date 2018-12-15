@@ -25,13 +25,13 @@ How my code improves the page:
 
 ## A description of where to find uses of grid.
 
-Please find my grid designs in page [Sapporo](https://hanqizhu.github.io/ResponsiveTest/sapporo.html), [Otara](https://hanqizhu.github.io/ResponsiveTest/otaru.html), and [Hakodate](https://hanqizhu.github.io/ResponsiveTest/hakodate.html).
+Please find my grid designs in page [Sapporo](https://hanqizhu.github.io/ResponsiveTest/sapporo.html), [Otaru](https://hanqizhu.github.io/ResponsiveTest/otaru.html), and [Hakodate](https://hanqizhu.github.io/ResponsiveTest/hakodate.html).
 
 One of them is initially grid of 3, the other is initially grid 4. And they are designed to be responsive(Please refer to the first section).
 
 I design them based on my number of photos, I also added a div named "Photo Gallery" to indicate it.
 
-Especially in the page of [Otara](https://hanqizhu.github.io/ResponsiveTest/otaru.html), the 2 grid designs are combined, so they looked better.
+Especially in the page of [Otaru](https://hanqizhu.github.io/ResponsiveTest/otaru.html), the 2 grid designs are combined, so they looked better.
 
 ## A description of where to find at least two uses of javaScript and/or jQuery.
 
@@ -60,7 +60,7 @@ All are satisfied.
 
 2. I used carousel to make a slider in the [home page](https://hanqizhu.github.io/ResponsiveTest/index.html)
 
-3. I used lightboxes in three pages: [Sapporo](https://hanqizhu.github.io/ResponsiveTest/sapporo.html), [Otara](https://hanqizhu.github.io/ResponsiveTest/otaru.html), and [Hakodate](https://hanqizhu.github.io/ResponsiveTest/hakodate.html).
+3. I used lightboxes in three pages: [Sapporo](https://hanqizhu.github.io/ResponsiveTest/sapporo.html), [Otaru](https://hanqizhu.github.io/ResponsiveTest/otaru.html), and [Hakodate](https://hanqizhu.github.io/ResponsiveTest/hakodate.html).
 
 4. I used jQuery to make Accordion on page [Noboribetsu](https://hanqizhu.github.io/ResponsiveTest/noboribetsu.html).
 
@@ -68,5 +68,7 @@ All are satisfied.
   __This is really an interesting part of my website!__ Please take a look at it there. Hover on it to see a very funny picture!
 
   I learned this from [w3schools](https://www.w3schools.com/howto/howto_css_flip_card.asp)
+
+  I used part of the code there, changed the content and the background colors because I don't need that.
 
 6. As I showed my demo to Colleen, she agrees that I have a good command of designing the grid.
