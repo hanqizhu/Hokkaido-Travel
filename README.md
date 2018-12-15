@@ -56,8 +56,20 @@ All are satisfied.
 
 ## Extras
 
-1. Accessibility
-  *
+1. Accessibility Checklist
+  * Is color alone used to convey important information?
+    Yes,  view the page in gray-scale. I can still understand all the information and perform all page functions.
+
+  * Is the color contrast of text readable by people with low-vision?
+    Yes. aXe did not detect any issues related to color contrast.
+
+  * Do all images have alternative text?
+    Yes, they do.
+
+  *  Does the alternative text make sense?
+    Yes, I can understand what the picture is.
+
+  
 
 2. I used carousel to make a slider in the [home page](https://hanqizhu.github.io/ResponsiveTest/index.html)
 
