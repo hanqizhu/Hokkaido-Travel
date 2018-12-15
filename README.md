@@ -5,7 +5,7 @@
 
 The responsive design is based on the width of the viewport.
 
-1. I have 2 kinds of grid design, and they are all responsive. (In page [Sapporo](https://hanqizhu.github.io/ResponsiveTest/sapporo.html), [Otara](https://hanqizhu.github.io/ResponsiveTest/otaru.html), and [Hakodate](https://hanqizhu.github.io/ResponsiveTest/hakodate.html)):
+1. I have 2 kinds of grid design, and they are all responsive. (In page [Sapporo](https://hanqizhu.github.io/ResponsiveTest/sapporo.html), [Otaru](https://hanqizhu.github.io/ResponsiveTest/otaru.html), and [Hakodate](https://hanqizhu.github.io/ResponsiveTest/hakodate.html)):
 
   * First the image divs will become smaller and smaller, then they will change from 3 or 4 items per line to 2 items per line.
 
