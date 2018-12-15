@@ -242,6 +242,7 @@ header h2{
 #accordion h3:hover{
 	background-color: #f38094;
 	color: white;
+	cursor: pointer;
 }
 
 
