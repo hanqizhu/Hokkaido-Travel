@@ -4,7 +4,7 @@
 * Variables you can change
 *************************/
 
-$mailto = "hanqizhu@umich.edu";
+$mailto = "your email goes here";	/*PUT YOUR EMAIL IN HERE*/
 $cc = "";
 $bcc = "";
 $subject = "enquiry";
