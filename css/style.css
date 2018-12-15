@@ -94,6 +94,12 @@ footer{
 	float: right;
 }
 
+#workbody2 img{
+	width:90%;
+	border-radius:15px;
+	float: right;
+}
+
 nav{
 	float:right;
 	width:600px;
