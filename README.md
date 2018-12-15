@@ -53,6 +53,8 @@ Especially in the page of [Otaru](https://hanqizhu.github.io/ResponsiveTest/otar
 ## Other basic requirements.
 All are satisfied.
 
+In early demo, I haven't done "jump to content" or passed the aXe/W3, they are all fixed now.
+
 ## Extras
 
 1. Accessibility Checklist
