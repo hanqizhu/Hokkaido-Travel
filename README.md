@@ -66,9 +66,7 @@ All are satisfied.
 
 5. I used Flip Card on on page [Noboribetsu](https://hanqizhu.github.io/ResponsiveTest/noboribetsu.html).
   __This is really an interesting part of my website!__ Please take a look at it there. Hover on it to see a very funny picture!
-
   I learned this from [w3schools](https://www.w3schools.com/howto/howto_css_flip_card.asp)
-
   I used part of the code there, changed the content and the background colors because I don't need that.
 
 6. As I showed my demo to Colleen, she agrees that I have a good command of designing the grid.
