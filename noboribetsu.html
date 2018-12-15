@@ -5,6 +5,13 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link href="https://fonts.googleapis.com/css?family=Cookie%7cLato" rel="stylesheet">
 <link rel="stylesheet" type="text/css" href="css/style.css">
+<script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+<script>
+$( function() {
+  $( "#accordion" ).accordion();
+} );
+</script>
 <title>Noboribetsu Travel</title>
 <div id="skip"><a href="#content">Skip to Main Content</a></div>
 </head>
@@ -37,15 +44,30 @@
       </aside>
       <aside class="right">
         	<h2>Brief Introduction</h2>
-        It was a long trip from Sapporo to Noboribetsu.
-        Near a crater, this city is known for the hot springs (Japanese: Onsen)
-        <br><br>
-        Volcanic eruption also caused unique scene in Noboribetsu, which is called "the Hell Valley" by local people.
-        Ghosts and monsters are parts of culture here, which indicates a bless and protect.(See my picture on the left!)
-        <br><br>
-        I highly recommend the Hotel named Dai-ichi (which means "the best" in Japanese) Takimotokan Hotel.
-        The price was slightly higher, but we enjoyed awesome hot springs with different functions.
-        As well as satisfying service and a solid meal that was much richer than I could ever imagine!
+        <div id="accordion">
+          <div><h3>Upon Arrival</h3></div>
+          <div>
+            <p>
+              It was a long trip from Sapporo to Noboribetsu.<br/>
+              Near a crater, this city is known for the hot springs (Japanese: Onsen)
+            </p>
+          </div>
+          <div><h3>Interesting Norm</h3></div>
+          <div>
+            <p>
+              Volcanic eruption also caused unique scene in Noboribetsu, which is called "the Hell Valley" by local people.<br/>
+              Ghosts and monsters are parts of culture here, which indicates a bless and protect.(See my picture on the left!)
+            </p>
+          </div>
+          <div><h3>Great hotel</h3></div>
+          <div>
+            <p>
+              I highly recommend the Hotel named Dai-ichi (which means "the best" in Japanese) Takimotokan Hotel.<br/>
+              The price was slightly higher, but we enjoyed awesome hot springs with different functions.
+              As well as satisfying service and a solid meal that was much richer than I could ever imagine!
+            </p>
+          </div>
+        </div>
       </aside>
       <div class="clearfix"></div>
 

@@ -46,6 +46,8 @@ Especially in the page of [Otara](https://hanqizhu.github.io/ResponsiveTest/otar
 3. I also made the lightbox photo gallery, which is similar to the last assignment. It is applied in each page except the homepage, because the images of this page are linked to the sub pages.
   This both makes my pages look good and interactive.
 
+4. I used jQuery to make Accordion on page [Noboribetsu](https://hanqizhu.github.io/ResponsiveTest/noboribetsu.html)
+  This is because the paragraph here is quite long, but adding sub headings would be a little bit plain, while adding an Accordion makes it fancier.
 ## Other basic requirements.
 All are satisfied.
 
@@ -57,4 +59,6 @@ All are satisfied.
 
 3. I used lightboxes in three pages: [Sapporo](https://hanqizhu.github.io/ResponsiveTest/sapporo.html), [Otara](https://hanqizhu.github.io/ResponsiveTest/otaru.html), and [Hakodate](https://hanqizhu.github.io/ResponsiveTest/hakodate.html).
 
-4. As I showed my demo to Colleen, she agrees that I have a good command of designing the grid.
+4. I used I used jQuery to make Accordion on page [Noboribetsu](https://hanqizhu.github.io/ResponsiveTest/noboribetsu.html)
+
+5. As I showed my demo to Colleen, she agrees that I have a good command of designing the grid.

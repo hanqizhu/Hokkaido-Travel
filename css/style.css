@@ -87,13 +87,9 @@ footer{
 	text-shadow: 0 1px 1px #FFF;
 }
 
-/* #logotitle a{
-	color:#2d2d2d;
-	text-decoration:none;
-} */
 
 #workbody img{
-	width:95%;
+	width:90%;
 	border-radius:15px;
 	float: right;
 }
@@ -230,6 +226,30 @@ header h2{
 .right p a{
 	color:#f38094;
 	text-decoration:none;
+}
+
+
+#accordion h3{
+	display: block;
+	margin: auto;
+	width: 80%;
+	border: 1px solid #ccc;
+	border-radius: 5px;
+	font-family:Lato, Arial, Helvetica, sans-serif;
+	color: #000;
+	text-align: center;
+}
+#accordion h3:hover{
+	background-color: #f38094;
+	color: white;
+}
+
+
+#accordion p{
+	padding: 10px;
+	margin: auto;
+	width: 70%;
+	text-align: center;
 }
 
 /* Bottom and Contact*/
@@ -663,6 +683,9 @@ html.lb-disable-scrolling{
 		margin:auto;
 		margin-bottom:5%;
 	}
+	#logotitle{
+		font-size:200%;
+	}
 	nav{
 		width:100%;
 	}
@@ -683,7 +706,7 @@ html.lb-disable-scrolling{
 		width:100%;
 	}
 	.left1{
-		width:100%;
+		width:80%;
 	}
 	.item{
 		width:210px;
