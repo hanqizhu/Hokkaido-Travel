@@ -6,6 +6,22 @@
 	border:0;
 }
 
+#skip a
+{
+position:absolute;
+left:-10000px;
+top:auto;
+width:1px;
+height:1px;
+overflow:hidden;
+}
+
+#skip a:focus
+{
+position:static;
+width:auto;
+height:auto;
+}
 body{
 	background-image:url(../images/alterbackground.jpeg);
 	background-color: #E0EEEE;
