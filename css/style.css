@@ -312,6 +312,7 @@ header h2{
 #formwrap{
 	width:100%;
 }
+
 input:focus, input.focused, textarea:focus, textarea.focused {  color: #3e3e3e; opacity:1;}
 #error{
 	color:#FF7471;
@@ -331,8 +332,7 @@ input:focus, input.focused, textarea:focus, textarea.focused {  color: #3e3e3e; 
 	font-family:Lato, Arial, Helvetica, sans-serif;
 	font-size:14px;
 	width: 95%;
-	background-color:rgba(255,255,255,1);
-	background-image:url(../images/backgroundtexture.png);
+	background-color: white;
 	margin-bottom:10px;
 	opacity:0.9;
 	padding:3px;
@@ -360,6 +360,12 @@ input:focus, input.focused, textarea:focus, textarea.focused {  color: #3e3e3e; 
 	cursor:pointer;
 
 }
+
+label{
+	color: white;
+	font-size: 90%;
+}
+
 .icon{
 	float:right;
 	width:32px;
