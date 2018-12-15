@@ -53,7 +53,9 @@ Especially in the page of [Otaru](https://hanqizhu.github.io/ResponsiveTest/otar
 ## Other basic requirements.
 All are satisfied.
 
-In early demo, I haven't done "jump to content" or passed the aXe/W3, they are all fixed now.
+When I firstly demo to Colleen, I haven't done "jump to content" or passed the aXe/W3, and they are fixed now.
+
+### Contrast Error and Warnings
 
 ## Extras
 
@@ -83,4 +85,4 @@ In early demo, I haven't done "jump to content" or passed the aXe/W3, they are a
   I learned this from [w3schools](https://www.w3schools.com/howto/howto_css_flip_card.asp)
   I used part of the code there, changed the content and the background colors because I don't need that.
 
-6. As I showed my demo to Colleen, she agrees that I have a good command of designing the grid.
+6. As I showed my demo to Colleen, she agreed that I have a good command of designing the grid.
