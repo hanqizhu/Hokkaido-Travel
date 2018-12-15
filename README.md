@@ -48,7 +48,6 @@ Especially in the page of [Otaru](https://hanqizhu.github.io/ResponsiveTest/otar
 
 4. I used jQuery to make Accordion on page [Noboribetsu](https://hanqizhu.github.io/ResponsiveTest/noboribetsu.html)
   This is because the paragraph here is quite long, but adding sub headings would be a little bit plain, while adding an Accordion makes it fancier.
-
   I learned it from [jQueryUI](https://jqueryui.com/accordion/). I just use the jQuery scripts, but I wrote the code, including CSS styles totally on my own.
 
 ## Other basic requirements.
@@ -69,7 +68,7 @@ All are satisfied.
   *  Does the alternative text make sense?
     Yes, I can understand what the picture is.
 
-  
+
 
 2. I used carousel to make a slider in the [home page](https://hanqizhu.github.io/ResponsiveTest/index.html)
 
