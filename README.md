@@ -48,6 +48,9 @@ Especially in the page of [Otara](https://hanqizhu.github.io/ResponsiveTest/otar
 
 4. I used jQuery to make Accordion on page [Noboribetsu](https://hanqizhu.github.io/ResponsiveTest/noboribetsu.html)
   This is because the paragraph here is quite long, but adding sub headings would be a little bit plain, while adding an Accordion makes it fancier.
+
+  I learned it from [jQueryUI](https://jqueryui.com/accordion/). I just use the jQuery scripts, but I wrote the code, including CSS styles totally on my own.
+
 ## Other basic requirements.
 All are satisfied.
 
@@ -59,6 +62,11 @@ All are satisfied.
 
 3. I used lightboxes in three pages: [Sapporo](https://hanqizhu.github.io/ResponsiveTest/sapporo.html), [Otara](https://hanqizhu.github.io/ResponsiveTest/otaru.html), and [Hakodate](https://hanqizhu.github.io/ResponsiveTest/hakodate.html).
 
-4. I used I used jQuery to make Accordion on page [Noboribetsu](https://hanqizhu.github.io/ResponsiveTest/noboribetsu.html)
+4. I used jQuery to make Accordion on page [Noboribetsu](https://hanqizhu.github.io/ResponsiveTest/noboribetsu.html).
 
-5. As I showed my demo to Colleen, she agrees that I have a good command of designing the grid.
+5. I used Flip Card on on page [Noboribetsu](https://hanqizhu.github.io/ResponsiveTest/noboribetsu.html).
+  __This is really an interesting part of my website!__ Please take a look at it there. Hover on it to see a very funny picture!
+
+  I learned this from [w3schools](https://www.w3schools.com/howto/howto_css_flip_card.asp)
+
+6. As I showed my demo to Colleen, she agrees that I have a good command of designing the grid.
