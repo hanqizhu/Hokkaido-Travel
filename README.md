@@ -57,9 +57,12 @@ When I firstly demo to Colleen, I haven't done "jump to content" or passed the a
 
 ### Contrast Error and Warnings
 
+1. For
+
 ## Extras
 
 1. Accessibility Checklist
+
   * Is color alone used to convey important information?
     Yes,  view the page in gray-scale. I can still understand all the information and perform all page functions.
 
@@ -72,7 +75,29 @@ When I firstly demo to Colleen, I haven't done "jump to content" or passed the a
   *  Does the alternative text make sense?
     Yes, I can understand what the picture is.
 
+  * If the image is a link, does the alternative text clearly identify the link destination?
+    Yes, in the home page there are four pictures linked to the sub pages, and the alt text says it is a link. And in the footer of each page there are four icons to social media websites, which is also easy to understand.
 
+  * Are all CSS background images either pure decoration or have alternative text?
+    Yes, if I hide all background images, I still have access to all information and functionality.
+
+  * Is any text embedded in images?
+    No. There isn't any text that can not be read by a Voice Over or Screen Reader.
+
+  * Does the tab order make sense?
+    Yes,  if you tab through the page using only your keyboard, the navigation order is logical and intuitive.
+
+  * Can you always see where the keyboard focus is?
+    Yes.
+
+  * Does the user have access to the full functionality of the page or application using a keyboard alone?
+    All functions and contents are able to be seen. You can fully interact with every interactive aspect of a web page using keyboard alone.
+
+  * Do all form felds have appropriate labels?
+    Yes, aXe did not detect any issues related to labels.
+
+  * Is all content and functionality available to a screen reader?
+    Yes, I used MacBook, and it is available to the Voice Over function of my laptop.
 
 2. I used carousel to make a slider in the [home page](https://hanqizhu.github.io/ResponsiveTest/index.html)
 
