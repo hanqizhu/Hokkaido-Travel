@@ -69,7 +69,7 @@ When I firstly demo to Colleen, I haven't done "jump to content" or passed the a
 
 ## Extras
 
-* Accessibility Checklist
+### Accessibility Checklist
 
 1. Is color alone used to convey important information?
 
@@ -119,6 +119,7 @@ When I firstly demo to Colleen, I haven't done "jump to content" or passed the a
 
     Yes, I used MacBook, and it is available to the Voice Over function of my laptop.
 
+### Other Extras
 * I used carousel to make a slider in the [home page](https://hanqizhu.github.io/ResponsiveTest/index.html)
 
 * I used lightboxes in three pages: [Sapporo](https://hanqizhu.github.io/ResponsiveTest/sapporo.html), [Otaru](https://hanqizhu.github.io/ResponsiveTest/otaru.html), and [Hakodate](https://hanqizhu.github.io/ResponsiveTest/hakodate.html).
