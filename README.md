@@ -9,13 +9,13 @@ The responsive design is based on the width of the viewport.
 
   * First the image divs will become smaller and smaller, then they will change from 3 or 4 items per line to 2 items per line.
 
-2. Also, the images linked with pages in the home page are also responsive.  
+2. Also, the images linked with pages in the [home page](https://hanqizhu.github.io/ResponsiveTest/index.html) are also responsive.  
 
    * Similarly, they will become smaller and smaller at first, then they changes from 4 items per line to 2 items per line.
 
-3. The navigation bar will also change to 2 lines when the viewport width becomes small.
+3. For all pages, the navigation bar will also change to 2 lines when the viewport width becomes small.
 
-4. And the font sizes of the text in my pages will be smaller.
+4. For all pages, the font sizes of the text in my pages will be smaller and adjusted with width.
 
 5. In addition, the background image will change when the orientation is landscape.
 
@@ -43,12 +43,12 @@ Especially in the page of [Otaru](https://hanqizhu.github.io/ResponsiveTest/otar
   I used the action given by Colleen from [Formspree](https://formspree.io/)
   This helps because my pages become more interactive with users.
 
-3. I also made the lightbox photo gallery, which is similar to the last assignment. It is applied in each page except the homepage, because the images of this page are linked to the sub pages.
+3. I also made the lightbox photo gallery, which is similar to the last assignment. It is applied along with my grid designs on page [Sapporo](https://hanqizhu.github.io/ResponsiveTest/sapporo.html), [Otaru](https://hanqizhu.github.io/ResponsiveTest/otaru.html), and [Hakodate](https://hanqizhu.github.io/ResponsiveTest/hakodate.html).
   This both makes my pages look good and interactive.
 
 4. I used jQuery to make Accordion on page [Noboribetsu](https://hanqizhu.github.io/ResponsiveTest/noboribetsu.html)
-  This is because the paragraph here is quite long, but adding sub headings would be a little bit plain, while adding an Accordion makes it fancier.
-  I learned it from [jQueryUI](https://jqueryui.com/accordion/). I just use the jQuery scripts, but I wrote the code, including CSS styles totally on my own.
+  This is because the paragraph here is quite long, and simply adding sub headings would be a little bit plain. Adding an Accordion makes it fancier!
+  I learned it from [jQueryUI](https://jqueryui.com/accordion/). I just use the jQuery scripts, but I wrote the HTML code and CSS styles totally on my own.
 
 ## Other basic requirements.
 All are satisfied.
@@ -65,7 +65,7 @@ When I firstly demo to Colleen, I haven't done "jump to content" or passed the a
 
   * The pink texts and the background: the background image is a picture with very light grey color, and the default background color is nearly white, while some of the highlight texts are in pink color.
 
-  I've tried to make the pink color darker, but it either contrats with white or with the black color in the footer. In addition, I really like the combination of the colors I used, so I decided not to change them. So there exist these contrast 
+  I've tried to make the pink color darker, but it either contrats with white or with the black color in the footer. In addition, I really like the combination of the colors I used, so I decided not to change them. So there exist these contrast
 
 ## Extras
 
