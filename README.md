@@ -75,47 +75,47 @@ When I firstly demo to Colleen, I haven't done "jump to content" or passed the a
 
     Yes,  view the page in gray-scale. I can still understand all the information and perform all page functions.
 
-  2. Is the color contrast of text readable by people with low-vision?
+2. Is the color contrast of text readable by people with low-vision?
 
     Not sure. aXe did detect issues related to color contrast, please refer to last section about __Contrast Error and Warnings__.
 
-  3. Do all images have alternative text?
+3. Do all images have alternative text?
 
     Yes, they do.
 
-  4.  Does the alternative text make sense?
+4.  Does the alternative text make sense?
 
     Yes, I can understand what the picture is.
 
-  5. If the image is a link, does the alternative text clearly identify the link destination?
+5. If the image is a link, does the alternative text clearly identify the link destination?
 
     Yes, in the home page there are four pictures linked to the sub pages, and the alt text says it is a link. And in the footer of each page there are four icons to social media websites, which is also easy to understand.
 
-  6. Are all CSS background images either pure decoration or have alternative text?
+6. Are all CSS background images either pure decoration or have alternative text?
 
     Yes, if I hide all background images, I still have access to all information and functionality.
 
-  7. Is any text embedded in images?
+7. Is any text embedded in images?
 
     No. There isn't any text that can not be read by a Voice Over or Screen Reader.
 
-  8. Does the tab order make sense?
+8. Does the tab order make sense?
 
     Yes,  if you tab through the page using only your keyboard, the navigation order is logical and intuitive.
 
-  9. Can you always see where the keyboard focus is?
+9. Can you always see where the keyboard focus is?
 
     Yes.
 
-  10. Does the user have access to the full functionality of the page or application using a keyboard alone?
+10. Does the user have access to the full functionality of the page or application using a keyboard alone?
 
     Yes. All functions and contents are able to be seen. You can fully interact with every interactive aspect of a web page using keyboard alone.
 
-  11. Do all form felds have appropriate labels?
+11. Do all form felds have appropriate labels?
 
     Yes, aXe did not detect any issues related to labels.
 
-  12. Is all content and functionality available to a screen reader?
+12. Is all content and functionality available to a screen reader?
 
     Yes, I used MacBook, and it is available to the Voice Over function of my laptop.
 
