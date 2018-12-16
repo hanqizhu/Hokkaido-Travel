@@ -71,7 +71,7 @@ When I firstly demo to Colleen, I haven't done "jump to content" or passed the a
 
 * Accessibility Checklist
 
-  1. Is color alone used to convey important information?
+1. Is color alone used to convey important information?
 
     Yes,  view the page in gray-scale. I can still understand all the information and perform all page functions.
 
