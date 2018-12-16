@@ -55,9 +55,17 @@ All are satisfied.
 
 When I firstly demo to Colleen, I haven't done "jump to content" or passed the aXe/W3, and they are fixed now.
 
-### Contrast Error and Warnings
+### Contrast Errors Explanation
 
-1. For
+1. The WAVE reported errors caused by lightbox, which are the same to the Lightbox assignment. I did not fixed it because the instructor has confirmed that this could be ignored.
+
+2. The contrast error. I have 3 main colors on my websites: darkgrey(#2d2d2d), black(#000000), white(#ffffff), and pink(#f38094). WAVE and aXe mainly report 2 color contrast problems:
+
+  * The current page indicator: the background color is pink, and the frontground text color is white.
+
+  * The pink texts and the background: the background image is a picture with very light grey color, and the default background color is nearly white, while some of the highlight texts are in pink color.
+
+  I've tried to make the pink color darker, but it either contrats with white or with the black color in the footer. In addition, I really like the combination of the colors I used, so I decided not to change them. So there exist these contrast 
 
 ## Extras
 
@@ -67,7 +75,7 @@ When I firstly demo to Colleen, I haven't done "jump to content" or passed the a
     Yes,  view the page in gray-scale. I can still understand all the information and perform all page functions.
 
   * Is the color contrast of text readable by people with low-vision?
-    Yes. aXe did not detect any issues related to color contrast.
+    Not sure. aXe did detect issues related to color contrast, please refer to last section about __Contrast Error and Warnings__.
 
   * Do all images have alternative text?
     Yes, they do.
