@@ -59,63 +59,76 @@ When I firstly demo to Colleen, I haven't done "jump to content" or passed the a
 
 1. The WAVE reported errors caused by lightbox, which are the same to the Lightbox assignment. I did not fixed it because the instructor has confirmed that this could be ignored.
 
-2. The contrast error. I have 3 main colors on my websites: darkgrey(#2d2d2d), black(#000000), white(#ffffff), and pink(#f38094). WAVE and aXe mainly report 2 color contrast problems:
+2. The contrast error. I have 3 main colors on my websites: dark grey(#2d2d2d), black(#000000), and pink(#f38094). WAVE and aXe mainly report 2 color contrast problems:
 
-  * The current page indicator: the background color is pink, and the frontground text color is white.
+  * The current page indicator: the background color is pink, and the frontground text color is white, though I have even made the font bold.
 
   * The pink texts and the background: the background image is a picture with very light grey color, and the default background color is nearly white, while some of the highlight texts are in pink color.
 
-  I've tried to make the pink color darker, but it either contrats with white or with the black color in the footer. In addition, I really like the combination of the colors I used, so I decided not to change them. So there exist these contrast
+  I've tried to make the pink color darker, but it either contrats with white or with the dark grey color in the footer. In addition, I really like the combination of the colors I used, so I decided not to change them. So there exist these contrast
 
 ## Extras
 
-1. Accessibility Checklist
+* Accessibility Checklist
 
-  * Is color alone used to convey important information?
+  1. Is color alone used to convey important information?
+
     Yes,  view the page in gray-scale. I can still understand all the information and perform all page functions.
 
-  * Is the color contrast of text readable by people with low-vision?
+  2. Is the color contrast of text readable by people with low-vision?
+
     Not sure. aXe did detect issues related to color contrast, please refer to last section about __Contrast Error and Warnings__.
 
-  * Do all images have alternative text?
+  3. Do all images have alternative text?
+
     Yes, they do.
 
-  *  Does the alternative text make sense?
+  4.  Does the alternative text make sense?
+
     Yes, I can understand what the picture is.
 
-  * If the image is a link, does the alternative text clearly identify the link destination?
+  5. If the image is a link, does the alternative text clearly identify the link destination?
+
     Yes, in the home page there are four pictures linked to the sub pages, and the alt text says it is a link. And in the footer of each page there are four icons to social media websites, which is also easy to understand.
 
-  * Are all CSS background images either pure decoration or have alternative text?
+  6. Are all CSS background images either pure decoration or have alternative text?
+
     Yes, if I hide all background images, I still have access to all information and functionality.
 
-  * Is any text embedded in images?
+  7. Is any text embedded in images?
+
     No. There isn't any text that can not be read by a Voice Over or Screen Reader.
 
-  * Does the tab order make sense?
+  8. Does the tab order make sense?
+
     Yes,  if you tab through the page using only your keyboard, the navigation order is logical and intuitive.
 
-  * Can you always see where the keyboard focus is?
+  9. Can you always see where the keyboard focus is?
+
     Yes.
 
-  * Does the user have access to the full functionality of the page or application using a keyboard alone?
-    All functions and contents are able to be seen. You can fully interact with every interactive aspect of a web page using keyboard alone.
+  10. Does the user have access to the full functionality of the page or application using a keyboard alone?
 
-  * Do all form felds have appropriate labels?
+    Yes. All functions and contents are able to be seen. You can fully interact with every interactive aspect of a web page using keyboard alone.
+
+  11. Do all form felds have appropriate labels?
+
     Yes, aXe did not detect any issues related to labels.
 
-  * Is all content and functionality available to a screen reader?
+  12. Is all content and functionality available to a screen reader?
+
     Yes, I used MacBook, and it is available to the Voice Over function of my laptop.
 
-2. I used carousel to make a slider in the [home page](https://hanqizhu.github.io/ResponsiveTest/index.html)
+* I used carousel to make a slider in the [home page](https://hanqizhu.github.io/ResponsiveTest/index.html)
 
-3. I used lightboxes in three pages: [Sapporo](https://hanqizhu.github.io/ResponsiveTest/sapporo.html), [Otaru](https://hanqizhu.github.io/ResponsiveTest/otaru.html), and [Hakodate](https://hanqizhu.github.io/ResponsiveTest/hakodate.html).
+* I used lightboxes in three pages: [Sapporo](https://hanqizhu.github.io/ResponsiveTest/sapporo.html), [Otaru](https://hanqizhu.github.io/ResponsiveTest/otaru.html), and [Hakodate](https://hanqizhu.github.io/ResponsiveTest/hakodate.html).
 
-4. I used jQuery to make Accordion on page [Noboribetsu](https://hanqizhu.github.io/ResponsiveTest/noboribetsu.html).
+* I used jQuery to make Accordion on page [Noboribetsu](https://hanqizhu.github.io/ResponsiveTest/noboribetsu.html).
 
-5. I used Flip Card on on page [Noboribetsu](https://hanqizhu.github.io/ResponsiveTest/noboribetsu.html).
+* I used Flip Card on on page [Noboribetsu](https://hanqizhu.github.io/ResponsiveTest/noboribetsu.html).
   __This is really an interesting part of my website!__ Please take a look at it there. Hover on it to see a very funny picture!
-  I learned this from [w3schools](https://www.w3schools.com/howto/howto_css_flip_card.asp)
+  I learned this from [w3schools](https://www.w3schools.com/howto/howto_css_flip_card.asp).
+
   I used part of the code there, changed the content and the background colors because I don't need that.
 
-6. As I showed my demo to Colleen, she agreed that I have a good command of designing the grid.
+* As I showed my demo to Colleen, she agreed that I have a good command of designing the grid.
