@@ -1,5 +1,4 @@
-# Hanqi Zhu
-# SI 539 Final Project
+# Hanqi Zhu: SI 539 Final Project
 
 ## A description of the responsive design.
 
